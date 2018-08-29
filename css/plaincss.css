@@ -1,0 +1,24 @@
+.navigation {
+    border: 1px solid lightgrey;
+    background-color: lightgrey;
+}
+.navigation__list {
+    margin: 8px auto;
+    text-align: center;
+}
+.navigation__item {
+    display: inline;
+    margin: 4px;
+}
+.navigation__link:link {
+    color: black;
+    text-decoration: none;
+}
+.navigation__link:visited {
+    color: black;
+    text-decoration: none;
+}
+.navigation__link:hover {
+    color: darkgrey;
+    text-decoration: none;
+}
