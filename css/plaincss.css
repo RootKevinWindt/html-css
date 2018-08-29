@@ -22,4 +22,27 @@
     color: darkgrey;
     text-decoration: none;
 }
-
+.section1 {
+    margin: 0 auto;
+}
+.section1__col1 {
+    background-color: grey;
+    float: left;
+    text-align: center;
+    width: calc(100%/3);
+ }
+.section1__col2 {
+    background-color: grey;
+    text-align: center;
+    float: left;
+    width: calc(100%/3);
+}
+.section1__col3 {
+    background-color: grey;
+    float: left;
+    text-align: center;
+    width: calc(100%/3);
+}
+.section1__clear {
+    clear: both;
+}
